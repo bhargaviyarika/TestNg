@@ -29,7 +29,6 @@ buildDir = '/tmp/external_build'
 test {
     // TODO: Add configuration to use TestNG instead of JUnit
     useTestNG() {
-        suites "src/test/java/testng.xml"
     }
 
     // Configuration to print test summary
