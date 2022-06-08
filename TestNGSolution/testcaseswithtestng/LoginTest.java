@@ -1,4 +1,4 @@
-package testcaseswithtestng;
+package testcaseswithouttestng;
 
 import pages.LoginPage;
 
